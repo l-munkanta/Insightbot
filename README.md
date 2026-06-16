@@ -17,6 +17,8 @@ natural language questions about customers, revenue, and operations.
 **"What is our refund policy for Pro customers?"**
 > Searches internal policy documents using semantic vector search and returns the answer.
 
+![InsightBot Demo](demo_video_compressed.gif)
+
 ---
 
 ## What it does
