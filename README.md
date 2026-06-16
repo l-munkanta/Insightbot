@@ -1,7 +1,7 @@
 # InsightBot — Enterprise Data Intelligence Chatbot
 
 An AI-powered chatbot that connects to a live business database and answers
-natural language questions about customers, revenue, and operations — no SQL knowledge required.
+natural language questions about customers, revenue, and operations.
 
 ## Demo
 
