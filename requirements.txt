@@ -1,0 +1,12 @@
+groq
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+numpy
+scikit-learn
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+httpx
