@@ -125,3 +125,7 @@ It handles class imbalance well with the `class_weight="balanced"` parameter,
 requires no feature scaling, and produces calibrated probability scores — ideal
 for ranking customers by risk level.
 
+**Demo Picture of the Website**
+<img width="1355" height="901" alt="demo picture" src="https://github.com/user-attachments/assets/c3d86470-3975-4692-91be-df1d15378b11" />
+
+
